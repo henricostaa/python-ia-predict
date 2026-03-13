@@ -84,7 +84,3 @@ Este projeto consolidou práticas importantes de ciência de dados aplicada:
 ## Autor
 **Henrique**  
 [LinkedIn](https://www.linkedin.com/in/henriquecostadsantos/) • [GitHub](https://github.com/henricostaa)
-
----
-
-### ⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
