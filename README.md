@@ -77,5 +77,5 @@ Este projeto consolidou práticas importantes de ciência de dados aplicada:
 - conexão entre modelagem e impacto em decisões de negócio.
 
 ## Autor
-**Henrique**  
+**Henrique Costa dos Santos**  
 [LinkedIn](https://www.linkedin.com/in/henriquecostadsantos/) • [GitHub](https://github.com/henricostaa)
