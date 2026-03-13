@@ -36,11 +36,6 @@ Além disso, o notebook traz análise de acurácia, matriz de confusão e import
 - **Pipeline objetivo e didático**, útil tanto para portfólio quanto para estudos de ML aplicado.
 - **Aplicação realista de negócio** (risco de crédito), tema altamente relevante no mercado.
 
-## Preview
-> Placeholder para imagem/GIF do notebook ou do fluxo de predição.
-
-![Preview do projeto](https://via.placeholder.com/1200x600.png?text=Python+IA+Predict+-+Score+de+Crédito)
-
 ## Estrutura do Projeto
 ```bash
 .
